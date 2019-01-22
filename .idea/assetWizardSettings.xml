@@ -57,10 +57,10 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="F:\iconfinder_social-05_1270803.png" />
-                                      <entry key="outputName" value="ic_gmail" />
+                                      <entry key="imageAsset" value="F:\logo.png" />
+                                      <entry key="outputName" value="logo2" />
                                       <entry key="theme" value="CUSTOM" />
-                                      <entry key="themeColor" value="fffcba" />
+                                      <entry key="themeColor" value="f2d01a" />
                                     </map>
                                   </option>
                                 </PersistentState>

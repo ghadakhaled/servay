@@ -10,10 +10,21 @@
     >
 
     <ImageView
+        android:id="@+id/rectangle"
         android:layout_width="match_parent"
         android:scaleType="fitXY"
         android:src="@drawable/shap"
         android:layout_height="match_parent" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:scaleType="fitEnd"
+        android:src="@drawable/blur" />
 
     <ScrollView
         android:layout_width="wrap_content"

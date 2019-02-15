@@ -1,0 +1,319 @@
+{
+  "project_info": {
+    "project_number": "217046109733",
+    "firebase_url": "https://fireapp-22f8a.firebaseio.com",
+    "project_id": "fireapp-22f8a",
+    "storage_bucket": "fireapp-22f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:ab6625d51e144919",
+        "android_client_info": {
+          "package_name": "com.example.ghada.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-3c523mo3eihpk65t8oi536epku1346vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.fireapp",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:c0f0372d436c94a5",
+        "android_client_info": {
+          "package_name": "com.example.ghada.newdesigndentelclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-4081s0j9qtbpqmuvft37mpkn1a79b40h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.newdesigndentelclinic",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:f2f105bd9ead646e",
+        "android_client_info": {
+          "package_name": "com.example.ghada.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-48fvh29ulln6lq9s55f22bjko5db788j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.note",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:e017f8cbecbb38a7",
+        "android_client_info": {
+          "package_name": "com.example.ghada.reservationdental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-u74ohhi03tda6q6ql69555ntm8aid1po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.reservationdental",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:c83ee97144aab9e5",
+        "android_client_info": {
+          "package_name": "com.example.ghada.reservationdentalclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-umkq6pki7oo0be5dlcf3jsj106f3j2ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.reservationdentalclinic",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:082b3024bbd083a6",
+        "android_client_info": {
+          "package_name": "com.example.ghada.testapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-5giulasjla51utqri64k3t1b4v48od3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.testapi",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217046109733:android:cfff1c8d635012e6",
+        "android_client_info": {
+          "package_name": "com.example.ghada.testapi3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217046109733-ltds4cei2d5siq76nhvd8ncjea7i67bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghada.testapi3",
+            "certificate_hash": "a43707f89e818bbab4f7e115e05ae228d9f55e12"
+          }
+        },
+        {
+          "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScPvRYrbAYcAm-2hV55E3DbDpkd9XndA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217046109733-cqn05litt1o9m14vrp0i8u47vr8ata5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

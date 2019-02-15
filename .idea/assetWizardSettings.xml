@@ -35,7 +35,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="paddingPercent" value="10" />
+                                                <entry key="paddingPercent" value="5" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -57,10 +57,10 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="F:\logo.png" />
-                                      <entry key="outputName" value="logo2" />
+                                      <entry key="imageAsset" value="C:\Users\ghada\Music\menu.png" />
+                                      <entry key="outputName" value="menu" />
                                       <entry key="theme" value="CUSTOM" />
-                                      <entry key="themeColor" value="f2d01a" />
+                                      <entry key="themeColor" value="fdfff4" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -134,6 +134,44 @@
                         <option name="values">
                           <map>
                             <entry key="outputIconType" value="ACTIONBAR" />
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+        <entry key="vectorWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="vectorAssetStep">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="clipartAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="url" value="jar:file:/C:/Program%20Files/Android/Android%20Studio/plugins/android/lib/android.jar!/images/material_design_icons/device/ic_network_wifi_black_24dp.xml" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                        <option name="values">
+                          <map>
+                            <entry key="color" value="fdfff4" />
+                            <entry key="outputName" value="ic_wifi_black_24dp" />
+                            <entry key="sourceFile" value="C:\Users\ghada" />
                           </map>
                         </option>
                       </PersistentState>

@@ -33,6 +33,17 @@
         android:gravity="center"
         android:paddingTop="40dp"
         >
+        <TextView
+            android:id="@+id/user_Login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginBottom="20dp"
+            android:textColor="#363535"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="30sp"
+            />
 
         <ImageView
             android:layout_width="200dp"
@@ -46,14 +57,18 @@
             android:background="@drawable/budesign"
             android:layout_marginBottom="10dp"
             android:text="New Reservation"
-            android:textColor="#590B66"
-            android:textSize="16sp"
+            android:onClick="NewReservation"
+            android:textColor="#9C27B0"
+            android:gravity="center"
+            android:textSize="15sp"
             />
         <Button
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:text="Forfollow-up"
-            android:textColor="#590B66"
+            android:textColor="#9C27B0"
+            android:gravity="center"
+            android:textSize="15sp"
             android:background="@drawable/budesign"
             android:layout_marginBottom="10dp"
 
@@ -63,7 +78,21 @@
             android:layout_height="wrap_content"
             android:background="@drawable/budesign"
             android:text="Patient File"
-            android:textColor="#590B66"
+            android:textColor="#9C27B0"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:layout_marginBottom="10dp"
+            />
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Logout"
+            android:layout_marginTop="10dp"
+            android:textColor="#F81414"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="30sp"
             />
 
     </LinearLayout>
